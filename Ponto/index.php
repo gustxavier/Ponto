@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <p>Hello World</p>
+        <p>Hello World do Developer</p>
     </body>
 </html>
