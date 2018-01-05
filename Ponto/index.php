@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <p>Hello World do Developer</p>
+        <p>Funcionando</p>
     </body>
 </html>
