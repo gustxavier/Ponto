@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <p>Hello World Homologação</p>
+        <p>Funcionando no homologação</p>
     </body>
 </html>
